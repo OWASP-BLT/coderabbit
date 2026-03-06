@@ -1,0 +1,2 @@
+# coderabbit
+Coderabbit settings 
