@@ -39,8 +39,8 @@ reviews:
       instructions: 'For code that makes a significant change to the repo and adds value'
     - label: 'quality: high'
       instructions: >-
-        For well thought out code and good execution and follows guidelines and updates this makes a
-        major impact on the project
+        For well-designed, well-executed code that follows project guidelines and makes a major
+        positive impact on the project
   auto_apply_labels: true
   auto_assign_reviewers: true
   poem: false
