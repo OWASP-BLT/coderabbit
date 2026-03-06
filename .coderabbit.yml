@@ -29,7 +29,7 @@ reviews:
     5. Review your feedback for completeness.
        If it is not sufficiently detailed, continue analysis before finalizing.
 
-    Output the complete review directly, without any delimiters.
+    Output the complete review directly, without any delimiters and express how you feel about the context with a text based face / expression
   request_changes_workflow: true
   collapse_walkthrough: false
   labeling_instructions:
